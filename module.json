@@ -1,18 +1,26 @@
 {
-	"name": "stormlight-plot-die",
-	"title": "Stormlight Plot Die",
-	"description": "Adds the ability to roll a Stormlight RPG Plot die",
-	"version": "1.0.0",
-	"minimumCoreVersion" : "0.8.8",
-	"compatibleCoreVersion" : "0.8.8",
-	"author": "TheFlyingP1g",
-	"esmodules": [
-		"./modules/plot.js"
-	],
-	"styles": [
-		"./css/plot.css"
-	],
-	"url": "https://github.com/TheFlyingPig/FVTT-Stormlight-Plot-Die",
-	"manifest": "https://raw.githubusercontent.com/TheFlyingPig/FVTT-Stormlight-Plot-Die/master/module.json",
-	"download": "https://raw.githubusercontent.com/TheFlyingPig/FVTT-Stormlight-Plot-Die/master/fvtt-stormlight-plot-die.zip"
+  "name": "stormlight-plot-die",
+  "title": "Stormlight Plot Die",
+  "description": "Adds the ability to roll a Stormlight RPG Plot die",
+  "version": "1.1.0",
+  "compatibility": {
+    "minimum": 11,
+    "verified": "12.328"
+  },
+  "authors": [
+    {
+      "discord": "TheFlyingP1g",
+      "name": "TheFlyingP1g"
+    },
+    { "name": "Dez384" }
+  ],
+  "esmodules": [
+    "./modules/plot.js"
+  ],
+  "styles": [
+    "./css/plot.css"
+  ],
+  "url": "https://github.com/TheFlyingPig/FVTT-Stormlight-Plot-Die",
+  "manifest": "https://raw.githubusercontent.com/TheFlyingPig/FVTT-Stormlight-Plot-Die/master/module.json",
+  "download": "https://raw.githubusercontent.com/TheFlyingPig/FVTT-Stormlight-Plot-Die/master/fvtt-stormlight-plot-die.zip"
 }
